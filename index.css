@@ -1,4 +1,6 @@
 *{
     border: 2px solid red;
     margin: 2rem;
+    padding: 2rem;
+    border-radius: 20px;
 }
